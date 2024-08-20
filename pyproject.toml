@@ -12,6 +12,7 @@ zeep = "^4.2.1"
 pytest = "^8.3.2"
 pyyaml = "^6.0.2"
 selenium = "^4.23.1"
+webdriver-manager = "^4.0.2"
 
 
 [build-system]
@@ -19,7 +20,7 @@ requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.pytest.ini_options]
-addopts = '-vv -s -m rest'
+addopts = '-vv -s'
 markers = [
 'rest', # test rest response
 'soap', # test soap response
