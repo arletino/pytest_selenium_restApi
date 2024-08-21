@@ -1,3 +1,0 @@
-address: https://test-stand.gb.ru
-driver_chrome: ./chromedriver-linux64/chromedriver
-driver_edg: ./edgdriver/msedgedriver

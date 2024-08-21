@@ -28,3 +28,5 @@ TestResults.xml
 __pycache__/
 #archive
 archive/
+#ignore
+ignore/
