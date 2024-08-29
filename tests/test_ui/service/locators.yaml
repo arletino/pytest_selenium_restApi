@@ -1,0 +1,22 @@
+xpath:
+  LOCATOR_LOGIN: //*[@id="login"]/div[1]/label/input
+  LOCATOR_PWD: //*[@id="login"]/div[2]/label/input
+  LOCATOR_ERROR_FIELD: //*[@id="app"]/main/div/div/div[2]/h2
+  LOCATOR_BLOG_USERNAME: //*[@id="app"]/main/nav/ul/li[3]/a
+  LOCATOR_BLOG_CONTACT_HREF: //*[@id="app"]/main/nav/ul/li[2]/a
+  LOCATOR_BLOG_BTN_ADD_POST: //*[@id="create-btn"]
+  LOCATOR_CREATE_POST_FORM_BTN: //*[@id="create-item"]/div/div/div[7]/div/button
+  LOCATOR_CREATED_POST_NAME: //*[@id="app"]/main/div/div[1]/h1
+  LOCATOR_DELETE_CREATED_POST: //*[@id="app"]/main/div/div[1]/div/div[1]/div[1]/button[2]
+  LOCATOR_CONTACT_NAMEFIELD: //*[@id="contact"]/div[1]/label/input
+  LOCATOR_CONTACT_EMAILFIELD: //*[@id="contact"]/div[2]/label/input
+  LOCATOR_CONTACT_CONTENTLFIELD: //*[@id="contact"]/div[3]/label/input
+  LOCATOR_CONTACT_BTN_CONTACTUS: //*[@id="contact"]/div[4]/button/span    
+  LOCATOR_CONTACT_FORM_TITLE: //*[@id="app"]/main/div/div/h1
+    
+css selector:
+  LOCATOR_LOGIN_BTN: 'button'
+
+class name:
+  LOCATOR_CREATE_POST_FORM: mdc-text-field__input
+  LOCATOR_CONTACT_FORM: mdc-text-field__input
