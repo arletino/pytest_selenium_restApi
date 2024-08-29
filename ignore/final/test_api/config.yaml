@@ -1,0 +1,10 @@
+url_soap: http://speller.yandex.net/services/spellservice?WSDL
+url_gb: https://test-stand.gb.ru/
+url_posts: api/posts
+notme: 
+  owner: notMe
+
+
+user_data:
+  username: 'go_1506' 
+  password: '9796131ed0'

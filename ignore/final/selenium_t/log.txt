@@ -1,0 +1,50 @@
+2024-08-22 18:43:1724341410 INFO ====== WebDriver manager ======
+2024-08-22 18:43:1724341410 INFO Get LATEST geckodriver version for 129.0 firefox
+2024-08-22 18:43:1724341410 INFO Get LATEST geckodriver version for 129.0 firefox
+2024-08-22 18:43:1724341410 INFO Driver [/home/atitkov/.wdm/drivers/geckodriver/linux64/v0.35.0/geckodriver] found in cache
+2024-08-22 18:43:1724341415 INFO Url https://test-stand.gb.ru is load
+2024-08-22 18:43:1724341415 INFO Element found
+2024-08-22 18:43:1724341415 INFO Element Login found
+2024-08-22 18:43:1724341415 INFO Element found
+2024-08-22 18:43:1724341415 INFO Element Login found
+2024-08-22 18:43:1724341415 INFO Element found
+2024-08-22 18:43:1724341415 INFO Element found
+2024-08-22 18:43:1724341416 INFO Clicked by Login button
+2024-08-22 18:43:1724341417 INFO Element found
+2024-08-22 18:43:1724341417 INFO We fing text 401 in element Login
+2024-08-22 18:43:1724341418 INFO Element found
+2024-08-22 18:43:1724341418 INFO Element Login found
+2024-08-22 18:43:1724341418 INFO Element found
+2024-08-22 18:43:1724341418 INFO Element Login found
+2024-08-22 18:43:1724341418 INFO Element found
+2024-08-22 18:43:1724341418 INFO Element found
+2024-08-22 18:43:1724341418 INFO Clicked by Login button
+2024-08-22 18:43:1724341419 INFO Element found
+2024-08-22 18:43:1724341419 INFO We fing text Hello, go_1506 in element Username after login
+2024-08-22 18:43:1724341419 INFO Element found
+2024-08-22 18:43:1724341419 INFO Element found
+2024-08-22 18:43:1724341419 INFO Clicked by Button Add post button
+2024-08-22 18:43:1724341419 INFO Element found
+2024-08-22 18:43:1724341419 INFO Element Fill post form fill
+2024-08-22 18:43:1724341419 INFO Element found
+2024-08-22 18:43:1724341419 INFO Element found
+2024-08-22 18:43:1724341419 INFO Form Submit post form submit
+2024-08-22 18:43:1724341420 INFO Element found
+2024-08-22 18:43:1724341420 INFO We fing text test_text in element Get name created post
+2024-08-22 18:43:1724341420 INFO Element found
+2024-08-22 18:43:1724341420 INFO Element found
+2024-08-22 18:43:1724341421 INFO Clicked by Delete created post button
+2024-08-22 18:43:1724341422 INFO Element found
+2024-08-22 18:43:1724341422 INFO Element found
+2024-08-22 18:43:1724341422 INFO Clicked by Contact href button
+2024-08-22 18:43:1724341422 INFO Element found
+2024-08-22 18:43:1724341422 INFO We fing text Contact us! in element Get title of contact form
+2024-08-22 18:43:1724341422 INFO Element found
+2024-08-22 18:43:1724341422 INFO Element Fill contact form fill
+2024-08-22 18:43:1724341422 INFO Element found
+2024-08-22 18:43:1724341422 INFO Data from form Get data from contact form get
+2024-08-22 18:43:1724341422 INFO Element found
+2024-08-22 18:43:1724341422 INFO Element found
+2024-08-22 18:43:1724341422 INFO Form Submit contact form "contact us" submit
+2024-08-22 18:43:1724341423 INFO Switch to alert
+2024-08-22 18:43:1724341423 INFO Text from alert Some Alert get
