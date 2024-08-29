@@ -28,5 +28,5 @@ TestResults.xml
 __pycache__/
 #archive
 archive/
-#ignore
+# ignore folder with archive
 ignore/
